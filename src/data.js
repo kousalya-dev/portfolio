@@ -14,8 +14,7 @@ export const profile = {
   location: 'Chennai, India',
   email: 'kousalya.contact@gmail.com',
   github: 'https://github.com/kousalya-dev',
-  // Paste your LinkedIn profile URL here — the link appears automatically once it's set.
-  linkedin: '',
+  linkedin: 'https://www.linkedin.com/in/kousalya-sathyamoorthy-7bab20244',
   resume: '/Kousalya_Sathyamoorthy_Resume.pdf',
   status: 'Immediate joiner · open to opportunities',
   summary:
